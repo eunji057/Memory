@@ -1,7 +1,15 @@
 [
     {
+        "merged": "/Users/appcreate09/Downloads/Memory/Application/build/intermediates/res/merged/debug/layout/fragment_friend.xml",
+        "source": "/Users/appcreate09/Downloads/Memory/Application/src/main/res/layout/fragment_friend.xml"
+    },
+    {
         "merged": "/Users/appcreate09/Downloads/Memory/Application/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
         "source": "/Users/appcreate09/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/appcreate09/Downloads/Memory/Application/build/intermediates/res/merged/debug/layout/fragment_teacher.xml",
+        "source": "/Users/appcreate09/Downloads/Memory/Application/src/main/res/layout/fragment_teacher.xml"
     },
     {
         "merged": "/Users/appcreate09/Downloads/Memory/Application/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
@@ -22,6 +30,10 @@
     {
         "merged": "/Users/appcreate09/Downloads/Memory/Application/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
         "source": "/Users/appcreate09/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/appcreate09/Downloads/Memory/Application/build/intermediates/res/merged/debug/layout/fragment_family.xml",
+        "source": "/Users/appcreate09/Downloads/Memory/Application/src/main/res/layout/fragment_family.xml"
     },
     {
         "merged": "/Users/appcreate09/Downloads/Memory/Application/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",

@@ -8,12 +8,12 @@
         "source": "/Users/appcreate09/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "/Users/appcreate09/Downloads/Memory/Application/build/intermediates/res/merged/debug/drawable/jupiter.jpg",
-        "source": "/Users/appcreate09/Downloads/Memory/Application/src/main/res/drawable/jupiter.jpg"
-    },
-    {
         "merged": "/Users/appcreate09/Downloads/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
         "source": "/Users/appcreate09/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/appcreate09/Downloads/Memory/Application/build/intermediates/res/merged/debug/drawable/jupiter.jpg",
+        "source": "/Users/appcreate09/Downloads/Memory/Application/src/main/res/drawable/jupiter.jpg"
     },
     {
         "merged": "/Users/appcreate09/Downloads/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",

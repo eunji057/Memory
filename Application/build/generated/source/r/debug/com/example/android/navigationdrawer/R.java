@@ -1930,14 +1930,17 @@ containing a value of this type.
         public static final int ic_drawer=0x7f02004f;
         public static final int ic_launcher=0x7f020050;
         public static final int jupiter=0x7f020051;
-        public static final int mars=0x7f020052;
-        public static final int mercury=0x7f020053;
-        public static final int neptune=0x7f020054;
-        public static final int notification_template_icon_bg=0x7f020059;
-        public static final int saturn=0x7f020055;
-        public static final int tile=0x7f020056;
-        public static final int uranus=0x7f020057;
-        public static final int venus=0x7f020058;
+        public static final int kang=0x7f020052;
+        public static final int ma=0x7f020053;
+        public static final int mars=0x7f020054;
+        public static final int mercury=0x7f020055;
+        public static final int neptune=0x7f020056;
+        public static final int notification_template_icon_bg=0x7f02005c;
+        public static final int saturn=0x7f020057;
+        public static final int sim=0x7f020058;
+        public static final int tile=0x7f020059;
+        public static final int uranus=0x7f02005a;
+        public static final int venus=0x7f02005b;
     }
     public static final class id {
         public static final int action0=0x7f0b0058;
@@ -2079,20 +2082,23 @@ containing a value of this type.
         public static final int activity_main=0x7f03001a;
         public static final int activity_navigation_drawer=0x7f03001b;
         public static final int drawer_list_item=0x7f03001c;
-        public static final int fragment_planet=0x7f03001d;
-        public static final int notification_media_action=0x7f03001e;
-        public static final int notification_media_cancel_action=0x7f03001f;
-        public static final int notification_template_big_media=0x7f030020;
-        public static final int notification_template_big_media_narrow=0x7f030021;
-        public static final int notification_template_lines=0x7f030022;
-        public static final int notification_template_media=0x7f030023;
-        public static final int notification_template_part_chronometer=0x7f030024;
-        public static final int notification_template_part_time=0x7f030025;
-        public static final int sample_dashboard_item=0x7f030026;
-        public static final int select_dialog_item_material=0x7f030027;
-        public static final int select_dialog_multichoice_material=0x7f030028;
-        public static final int select_dialog_singlechoice_material=0x7f030029;
-        public static final int support_simple_spinner_dropdown_item=0x7f03002a;
+        public static final int fragment_family=0x7f03001d;
+        public static final int fragment_friend=0x7f03001e;
+        public static final int fragment_planet=0x7f03001f;
+        public static final int fragment_teacher=0x7f030020;
+        public static final int notification_media_action=0x7f030021;
+        public static final int notification_media_cancel_action=0x7f030022;
+        public static final int notification_template_big_media=0x7f030023;
+        public static final int notification_template_big_media_narrow=0x7f030024;
+        public static final int notification_template_lines=0x7f030025;
+        public static final int notification_template_media=0x7f030026;
+        public static final int notification_template_part_chronometer=0x7f030027;
+        public static final int notification_template_part_time=0x7f030028;
+        public static final int sample_dashboard_item=0x7f030029;
+        public static final int select_dialog_item_material=0x7f03002a;
+        public static final int select_dialog_multichoice_material=0x7f03002b;
+        public static final int select_dialog_singlechoice_material=0x7f03002c;
+        public static final int support_simple_spinner_dropdown_item=0x7f03002d;
     }
     public static final class menu {
         public static final int navigation_drawer=0x7f0d0000;

@@ -1,0 +1,2 @@
+CHANGED,/Users/appcreate09/Downloads/Memory/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/Users/appcreate09/Downloads/Memory/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/navigationdrawer/SplashActivity$1$override.class
